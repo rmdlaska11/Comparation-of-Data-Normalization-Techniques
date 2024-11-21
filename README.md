@@ -1,1 +1,5 @@
 # Comparation-of-Data-Normalization-Techniques
+
+Data preprocessing is important before applying machine learning algorithms on data to optimize classification performance. One of the stages is data normalization which aims to convert data into an equivalent range of values. In this research, normalization is applied to Pekanbaru City rainfall data from 2019 to 2023. The purpose of this research is to compare several data normalization techniques, such as Min-Max Normalization, Z-Score Normalization, Max Abs Normalization, and Robust Normalization. The results showed that the application of normalization techniques successfully improved classification performance compared to using data without normalization. The best classification performance is given by data normalized using Z-Score Normalization with accuracy, sensitivity, and specificity of 74.59%, 82.48%, and 63.92%, respectively.
+
+This research can also be read via the following link ([Article](http://eprints.intimal.edu.my/1916/))  
